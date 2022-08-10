@@ -11,6 +11,5 @@ Combined Cycle Power Plant dataset contains 9568 data points collected from a Co
 when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T),
 Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP) of the plant.
 
-1. A Readme file for more details on dataset. 
-2. A Training dataset csv file with X train and Y train data
-3. A X test File and you have to predict and submit predictions for this file.
+1. A Training dataset csv file with X train and Y train data
+2. A X test File and you have to predict and submit predictions for this file.
